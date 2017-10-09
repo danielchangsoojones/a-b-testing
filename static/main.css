@@ -19,3 +19,13 @@ header {
 .vendor-book-button {
 	font-size: 2em;
 }
+
+.descriptionA {
+	font-size: 15pt;
+	color: white;
+}
+
+.descriptionB {
+	font-size: 12pt;
+	color: black;
+}
